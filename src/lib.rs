@@ -1,5 +1,7 @@
 //! 統計処理をRustで実装します。
 
+pub mod metrics;
+
 /// 棒グラフを出力する。
 ///
 /// # Arguments
