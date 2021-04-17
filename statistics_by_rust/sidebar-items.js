@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["bar_chart","棒グラフを出力する。"],["frequency_distribution","[min, max)の範囲内でbin_sizeごとに階級を切って度数分布を集計する。"]],"mod":[["metrics",""]]});

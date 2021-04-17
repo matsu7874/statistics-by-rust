@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["mean","算術平均を求める"]]});
